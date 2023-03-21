@@ -1,0 +1,29 @@
+{
+    "appartments": [
+      {
+        "id": 1,
+        "name": "Erasmus apartment 1",
+        "img_url": "/apartment_picture.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Erasmus apartment 2",
+        "img_url": "/apartment_picture1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Erasmus apartment 3",
+        "img_url": "/apartment_picture2.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Erasmus apartment 4",
+        "img_url": "/apartment_picture3.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Erasmus apartment 5",
+        "img_url": "/apartment_picture4.jpg"
+      }
+    ]
+  }
