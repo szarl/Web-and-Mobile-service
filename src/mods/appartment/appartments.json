@@ -24,6 +24,11 @@
         "id": 5,
         "name": "Erasmus apartment 5",
         "img_url": "/apartment_picture4.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Erasmus apartment 6",
+        "img_url": "/apartment_picture.jpg"
       }
     ]
   }
