@@ -1,0 +1,44 @@
+{
+    "universities": [
+      {
+        "id": 1,
+        "name": "",
+        "street": "",
+        "number": "",
+        "postal_code": "",
+        "city": "",
+        "country": "",
+        "logo": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "street": "",
+        "number": "",
+        "postal_code": "",
+        "city": "",
+        "country": "",
+        "logo": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "street": "",
+        "number": "",
+        "postal_code": "",
+        "city": "",
+        "country": "",
+        "logo": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "street": "",
+        "number": "",
+        "postal_code": "",
+        "city": "",
+        "country": "",
+        "logo": ""
+      }
+    ]
+  }

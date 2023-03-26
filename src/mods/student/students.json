@@ -1,0 +1,48 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "first_name": "Anja",
+        "last_name": "Kuzew",
+        "email": "",
+        "nationality": "Macedonia",
+        "description": "Sarah es una estudiante brillante y aventurera del Reino Unido que recientemente se embarcó en un emocionante viaje a Las Palmas como parte de su programa Erasmus. Siendo ella misma una estudiante, comprende los desafíos que conlleva estudiar en el extranjero y siempre está dispuesta a ayudar a sus compañeros de estudios.",
+        "phone_number": "+389 078 317 322",
+        "language_description": "ES",
+        "avatar": "/student_anja.jpg"
+      },
+      {
+        "id": 2,
+        "first_name": "Anja",
+        "last_name": "Kuzew",
+        "email": "",
+        "nationality": "Macedonia",
+        "description": "Sarah es una estudiante brillante y aventurera del Reino Unido que recientemente se embarcó en un emocionante viaje a Las Palmas como parte de su programa Erasmus. Siendo ella misma una estudiante, comprende los desafíos que conlleva estudiar en el extranjero y siempre está dispuesta a ayudar a sus compañeros de estudios.",
+        "phone_number": "+389 078 317 322",
+        "language_description": "ES",
+        "avatar": "/student_anja.jpg"
+      },
+      {
+        "id": 3,
+        "first_name": "Anja",
+        "last_name": "Kuzew",
+        "email": "",
+        "nationality": "Macedonia",
+        "description": "Sarah es una estudiante brillante y aventurera del Reino Unido que recientemente se embarcó en un emocionante viaje a Las Palmas como parte de su programa Erasmus. Siendo ella misma una estudiante, comprende los desafíos que conlleva estudiar en el extranjero y siempre está dispuesta a ayudar a sus compañeros de estudios.",
+        "phone_number": "+389 078 317 322",
+        "language_description": "ES",
+        "avatar": "/student_anja.jpg"
+      },
+      {
+        "id": 4,
+        "first_name": "Anja",
+        "last_name": "Kuzew",
+        "email": "",
+        "nationality": "Macedonia",
+        "description": "Sarah es una estudiante brillante y aventurera del Reino Unido que recientemente se embarcó en un emocionante viaje a Las Palmas como parte de su programa Erasmus. Siendo ella misma una estudiante, comprende los desafíos que conlleva estudiar en el extranjero y siempre está dispuesta a ayudar a sus compañeros de estudios.",
+        "phone_number": "+389 078 317 322",
+        "language_description": "ES",
+        "avatar": "/student_anja.jpg"
+      }
+    ]
+  }
